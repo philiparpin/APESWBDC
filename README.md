@@ -4,14 +4,13 @@ APESWBDC
 Created by Philip Arpin
 --------------
 
+
 **TO RUN:**
-- Open start.command
+- Open start.command.
 - Follow Instructions.
 
 
+<p>Thanks,</p>
+**Philip Arpin**
 
-Thanks,
-
-*Philip Arpin*
-
-	http://philip.arpin@me.com
+http://philiparp.in/
